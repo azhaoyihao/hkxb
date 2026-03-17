@@ -1,8 +1,464 @@
 🕘️更新时间,#genre#
-2026-03-17 06:15:26,url
+2026-03-17 10:15:47,http://go.bkpcp.top/mg/cctv1
 
 📺央视频道,#genre#
+CCTV1综合,http://go.bkpcp.top/mg/cctv1
+CCTV2财经,http://go.bkpcp.top/mg/cctv2
+CCTV3综艺,http://go.bkpcp.top/mg/cctv3
+CCTV4中文国际,http://go.bkpcp.top/mg/cctv4
+CCTV5体育,http://go.bkpcp.top/mg/cctv5
+CCTV5+体育赛事,http://go.bkpcp.top/mg/cctv5p
+CCTV6电影,http://go.bkpcp.top/mg/cctv6
+CCTV7国防军事,http://go.bkpcp.top/mg/cctv7
+CCTV8电视剧,http://go.bkpcp.top/mg/cctv8
+CCTV9纪录,http://go.bkpcp.top/mg/cctv9
+CCTV10科教,http://go.bkpcp.top/mg/cctv10
+CCTV11戏曲,http://go.bkpcp.top/mg/cctv11
+CCTV12社会与法,http://go.bkpcp.top/mg/cctv12
+CCTV13新闻,http://go.bkpcp.top/mg/cctv13
+CCTV14少儿,http://go.bkpcp.top/mg/cctv14
+CCTV15音乐,http://go.bkpcp.top/mg/cctv15
+CCTV16奥林匹克,http://go.bkpcp.top/mg/cctv16
+CCTV17农业农村,http://go.bkpcp.top/mg/cctv17
+
+💰央视付费,#genre#
+CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o
+CCTV4美洲,http://go.bkpcp.top/mg/cctv4m
+老故事,http://go.bkpcp.top/mg/lgs
+中学生,http://go.bkpcp.top/mg/zxs
+发现之旅,http://go.bkpcp.top/mg/fxzl
+CGTN英语,http://go.bkpcp.top/mg/cgtn
+CGTN纪录,http://go.bkpcp.top/mg/cgtnjl
+CGTN俄语,http://go.bkpcp.top/mg/cgtnr
+CGTN法语,http://go.bkpcp.top/mg/cgtnf
+CGTN西语,http://go.bkpcp.top/mg/cgtne
+CGTN阿语,http://go.bkpcp.top/mg/cgtna
 
 📡卫视频道,#genre#
+广东卫视,http://go.061899.xyz:80/mg/gdws
+广东卫视,http://go.bkpcp.top/mg/gdws
+深圳卫视,http://go.061899.xyz:80/mg/szws
+深圳卫视,http://go.bkpcp.top/mg/szws
+大湾区卫视,http://go.bkpcp.top/mg/dwqws
+湖南卫视,http://go.bkpcp.top/mg/hunws
+浙江卫视,http://go.bkpcp.top/mg/zjws
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+江苏卫视,http://go.061899.xyz:80/mg/jsws
+江苏卫视,http://go.bkpcp.top/mg/jsws
+广西卫视,http://go.bkpcp.top/mg/gxws
+广西卫视,http://go.061899.xyz:80/mg/gxws
+东南卫视,http://go.061899.xyz:80/mg/dnws
+东南卫视,http://go.bkpcp.top/mg/dnws
+厦门卫视,http://go.bkpcp.top/mg/xmws
+海峡卫视,http://go.bkpcp.top/mg/hxws
+北京卫视,http://go.061899.xyz:80/mg/bjws
+北京卫视,http://go.bkpcp.top/mg/bjws
+天津卫视,http://go.061899.xyz:80/mg/tjws
+天津卫视,http://go.bkpcp.top/mg/tjws
+东方卫视,http://go.bkpcp.top/mg/dfws
+黑龙江卫视,http://go.061899.xyz:80/mg/hljws
+黑龙江卫视,http://go.bkpcp.top/mg/hljws
+辽宁卫视,http://go.bkpcp.top/mg/lnws
+辽宁卫视,http://go.061899.xyz:80/mg/lnws
+吉林卫视,http://go.061899.xyz:80/mg/jlbws
+吉林卫视,http://go.bkpcp.top/mg/jlws
+湖北卫视,http://go.bkpcp.top/mg/hubws
+湖北卫视,http://go.061899.xyz:80/mg/hubws
+山东卫视,http://go.bkpcp.top/mg/sdws
+安徽卫视,http://go.bkpcp.top/mg/ahws
+河北卫视,http://go.bkpcp.top/mg/hbws
+河北卫视,http://go.061899.xyz:80/mg/hbws
+河南卫视,http://go.061899.xyz:80/mg/hnws
+河南卫视,http://go.bkpcp.top/mg/hnws
+贵州卫视,http://go.061899.xyz:80/mg/gzws
+贵州卫视,http://go.bkpcp.top/mg/gzws
+重庆卫视,http://go.061899.xyz:80/mg/cqws
+重庆卫视,http://go.bkpcp.top/mg/cqws
+四川卫视,http://go.bkpcp.top/mg/scws
+四川卫视,http://go.061899.xyz:80/mg/scws
+江西卫视,http://go.bkpcp.top/mg/jxws
+江西卫视,http://go.061899.xyz:80/mg/jxws
+云南卫视,http://go.bkpcp.top/mg/ynws
+延边卫视,http://go.bkpcp.top/mg/ybws
+新疆卫视,http://go.bkpcp.top/mg/xjws
+青海卫视,http://go.bkpcp.top/mg/qhws
+内蒙古卫视,http://go.bkpcp.top/mg/nmgws
+内蒙古卫视,http://go.bkpcp.top/mg/nmws
+宁夏卫视,http://go.bkpcp.top/mg/nxws
+甘肃卫视,http://go.bkpcp.top/mg/gsws
+陕西卫视,http://go.bkpcp.top/mg/sxws
+山西卫视,http://go.bkpcp.top/mg/sxiws
+农林卫视,http://go.bkpcp.top/mg/nlws
+兵团卫视,http://go.bkpcp.top/mg/btws
+西藏卫视,http://go.bkpcp.top/mg/xzws
+海南卫视,http://go.bkpcp.top/mg/hinws
+康巴卫视,http://go.bkpcp.top/mg/kbws
 
-☘️广东频道,#genre#
+🐤广东频道,#genre#
+广东卫视,http://go.061899.xyz:80/mg/gdws
+广东卫视,http://go.bkpcp.top/mg/gdws
+深圳卫视,http://go.061899.xyz:80/mg/szws
+深圳卫视,http://go.bkpcp.top/mg/szws
+大湾区卫视,http://go.bkpcp.top/mg/dwqws
+广东珠江,http://go.bkpcp.top/mg/gdzj
+广东体育,http://go.bkpcp.top/mg/gdty
+广东新闻,http://go.bkpcp.top/mg/gdxw
+广东民生,http://go.bkpcp.top/mg/gdms
+广东影视,http://go.bkpcp.top/mg/gdys
+揭阳综合,http://183.10.180.90:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+揭阳公共,http://183.10.180.90:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
+汕头综合,http://183.10.180.90:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
+汕头经济,http://183.10.180.90:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
+
+🌊台湾频道,#genre#
+
+🇭🇰香港频道,#genre#
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+TVB翡翠台,https://mg.345564.xyz/proxy.php?url=http://cdn6.163189.xyz/live/fct4k/stream.m3u8
+TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
+TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
+TVB翡翠台,http://cdn6.163189.xyz/163189/fct4k
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+HOY77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
+HOY77,https://cdn6.163189.xyz/live/hoy/stream.m3u8
+HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+港台电视31,http://43.251.226.89:8080/play/918.m3u8
+港台电视32,http://43.251.226.89:8080/play/919.m3u8
+
+🇲🇴澳门频道,#genre#
+澳门莲花卫视,http://cdn6.163189.xyz/163189/amlh
+澳视澳门,https://cdn6.163189.xyz/163189/asam
+澳视卫星,https://cdn6.163189.xyz/163189/as
+澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门综艺,http://cdn6.163189.xyz/163189/amzy
+
+🎬电影频道,#genre#
+CHC动作电影,http://go.bkpcp.top/mg/dzdy
+CHC动作电影,http://go.bkpcp.top/mg/chcdz
+CHC影迷电影,http://go.bkpcp.top/mg/ymdy
+CHC家庭影院,http://go.bkpcp.top/mg/jtyy
+CHC家庭影院,http://go.bkpcp.top/mg/chcjt
+
+🈳无结果频道,#genre#
+CETV1综合教育,url
+CETV2空中课堂,url
+CETV3教育服务,url
+CETV4职业教育,url
+CETV早期教育,url
+CCTV4K,url
+CCTV8K,url
+新科动漫,url
+CCTV文化精品,url
+CCTV风云足球,url
+CCTV央视台球,url
+CCTV高尔夫网球,url
+CCTV风云音乐,url
+CCTV第一剧场,url
+CCTV风云剧场,url
+CCTV怀旧剧场,url
+CCTV电视指南,url
+CCTV世界地理,url
+CCTV兵器科技,url
+CCTV卫生健康,url
+CCTV女性时尚,url
+CCTV早期教育,url
+CCTV移动传媒,url
+中国天气,url
+中国交通,url
+CGTN新闻,url
+香港卫视,url
+三沙卫视,url
+安多卫视,url
+广东公共,url
+广东少儿,url
+广东综艺,url
+广东科教,url
+广东岭南戏曲,url
+广东移动,url
+广东4K,url
+广东国际,url
+广东房产,url
+广东嘉佳卡通,url
+广东现代教育,url
+广东南方购物,url
+广州综合,url
+广州新闻,url
+广州竞赛,url
+广州影视,url
+广州法治,url
+广州南国都市,url
+深圳都市,url
+深圳娱乐,url
+深圳公共,url
+深圳财经,url
+深圳电视剧,url
+深圳少儿,url
+深圳国际,url
+深圳体育,url
+深圳宝安,url
+深圳龙岗,url
+深圳众创TV,url
+深圳移动电视,url
+深圳购物,url
+深圳东部,url
+潮商卫视,url
+揭阳生活,url
+汕头文旅,url
+潮州公共,url
+潮州综合,url
+东莞综合,url
+东莞生活资讯,url
+佛山南海,url
+佛山城市生活,url
+佛山顺德,url
+佛山综合,url
+佛山公共,url
+汕尾新闻综合,url
+汕尾文化生活,url
+河源综合,url
+河源生活,url
+惠州1,url
+惠州2,url
+梅州综合,url
+梅州客家生活,url
+中山综合,url
+中山香山文化,url
+江门综合,url
+江门侨乡生活,url
+云浮综合,url
+云浮文旅,url
+清远综合,url
+湛江公共,url
+湛江新闻,url
+肇庆生活服务,url
+肇庆综合,url
+珠海1,url
+茂名综合,url
+茂名公共,url
+茂名文化生活,url
+韶关综合,url
+阳江-1,url
+阳江-2,url
+中视,url
+华视,url
+民视,url
+台视,url
+中视新闻,url
+华视新闻,url
+民视新闻,url
+台视新闻,url
+中天新闻,url
+非凡新闻,url
+公视新闻,url
+三立新闻,url
+镜新闻,url
+东森新闻,url
+寰宇新闻,url
+三立台湾,url
+中天亚洲,url
+纬来体育,url
+纬来育乐,url
+纬来电影,url
+纬来篮球,url
+纬来日本,url
+纬来精彩,url
+八大第一,url
+八大综合,url
+龙华日韩,url
+龙华经典,url
+龙华电影,url
+龙华卡通,url
+龙华偶像,url
+龙华戏剧,url
+龙华洋片,url
+龙华影剧,url
+龙祥电影,url
+TVBS亚洲,url
+TVBS,url
+TVBS新闻,url
+TVB1,url
+TVBe,url
+Viutv,url
+ViuTV6+,url
+东森财经,url
+耀才财经,url
+东森综合,url
+东森超视,url
+东森电影,url
+AMC电影台,url
+axn电影,url
+CINEMAX电影,url
+靖天资讯,url
+星光视界,url
+星卫娱乐,url
+卫视卡式,url
+千禧经典台,url
+经典影视台,url
+Channel[V],url
+番薯音乐,url
+番薯,url
+大爱1台,url
+大爱2台,url
+唯心电视,url
+香港卫视,url
+翡翠台,url
+TVB明珠台,url
+TVB黃金翡翠台,url
+TVB翡翠剧集台(北美),url
+TVB明珠剧集台(北美),url
+TVB无线新闻台(北美),url
+TVB无线新闻,url
+TVB无线卫星新闻,url
+TVB无线星河,url
+TVB无线娱乐,url
+TVB无线财经,url
+TVB无线功夫,url
+TVB无线华丽,url
+TVB J1,url
+TVB J2,url
+TVB J3,url
+TVB J4,url
+TVB J5,url
+亚洲新闻,url
+有线新闻,url
+美亚C+,url
+Now直播台,url
+Now星影台,url
+Now爆谷台,url
+Now剧集台,url
+Now华剧台,url
+Now紫金国际,url
+Now报价台,url
+Now爆谷星影台,url
+Now财经台,url
+Now跑马668,url
+Now新闻台,url
+Now Golf 2,url
+Now Golf 3,url
+Now Sports 1,url
+Now Sports 2,url
+Now Sports 3,url
+Now Sports 4,url
+Now Sports 5,url
+Now Sports 6,url
+Now Sports 7,url
+Now Sports 641,url
+Now Sports 647,url
+Now Sports Plus,url
+Now Sports Premier 1,url
+Now Sports Premier 2,url
+Now Sports Premier 3,url
+Now Sports Premier 4,url
+Now Sports Premier 5,url
+Now Sports Premier 6,url
+Now Sports Premier 7,url
+Now Sports Prime,url
+娛樂新聞台(HK),url
+美亞電影台(HK),url
+千禧經典台(HK),url
+28 AI 智慧賽馬,url
+myTV SUPER 18台,url
+PopC,url
+tvN,url
+viutv 99,url
+viutv6 96,url
+Animax(HK),url
+DW,url
+France 24,url
+KIX,url
+Love Nature HD,url
+Nick Jr,url
+Nickelodeon,url
+ROCK Action,url
+Thrill,url
+ZooMoo,url
+AXN,url
+i-Fun 動漫台,url
+Astro AEC,url
+Astro AOD,url
+Astro iQIYI,url
+Astro QJ,url
+Astro Xing He,url
+NHK東京総合,url
+H0Y78,url
+中国香港环球,url
+MOMOTV,url
+港台电视33,url
+港台电视34,url
+港台电视35,url
+香港佛陀,url
+香港面包台,url
+香港電台(RTHK 34),url
+1905电影,url
+1905电影亚洲,url
+1905电影国际,url
+凤凰电影,url
+古装妖魔,url
+海看大片,url
+淘剧场,url
+淘娱乐,url
+淘电影,url
+淘Baby,url
+萌宠TV,url
+淘精彩,url
+NewTV惊悚悬疑,url
+NewTV动作电影,url
+黑莓电影,url
+纬来电影,url
+靖天映画,url
+靖天戏剧,url
+星卫娱乐,url
+艾尔达娱乐,url
+漫威电影,url
+豆瓣电影,url
+星光影视,url
+IPTV经典电影,url
+天映经典,url
+无线星河,url
+东森电影,url
+龙祥电影,url
+东森洋片,url
+东森超视,url
+4K超高清电影,url
+4K电影,url
+亚洲武侠,url
+八大戏剧,url
+三立戏剧,url
+Now剧集,url
+Now华剧,url
+天映频道,url
+AMC最爱电影,url
+AXN,url
+CatchPlay电影台,url
+CinemaWorld,url
+CINEMAX,url
+HBO,url
+HBO signature,url
+HBOFamily,url
+StarMovies,url
+WARNERTV,url
+爱尔达影剧台,url
+采昌影剧台,url
+好莱坞电影台,url
+靖天电影,url
+龙华电影,url
+美亚电影,url
+星卫电影,url
+壹电视电影,url
+影迷数位电影,url
+东方影视,url
+滨海影视,url
+溧水影视,url
+南京影视,url
+南宁影视,url
+平泉影视,url
+绍兴影视,url
+石河子影视文体,url
+新昌休闲影视,url
+烟台影视,url
+泽影视,url
+浙江教科影视,url
+浙江影视,url
+浙江影视娱乐,url
